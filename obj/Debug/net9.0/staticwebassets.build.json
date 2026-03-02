@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WbI2UHTVZ8yboZnPn3xiCT72qFyOKnTENXg6wnQEYB8=",
+  "Source": "MiniService",
+  "BasePath": "_content/MiniService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
