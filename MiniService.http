@@ -1,0 +1,6 @@
+@MiniService_HostAddress = http://localhost:5190
+
+GET {{MiniService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
